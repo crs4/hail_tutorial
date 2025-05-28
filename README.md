@@ -57,7 +57,7 @@ The `notebooks` folder contains two Jupyter notebooks:
 - [**Hail_tutorial-GWAS-vcf.ipynb**](notebooks/Hail_tutorial-GWAS-vcf.ipynb):  
   A complete GWAS analysis using a VCF file.  
 - [**Hail_tutorial-GWAS-vcf-smaller.ipynb**](notebooks/Hail_tutorial-GWAS-vcf-smaller.ipynb):  
-  A smaller version of the previuous notebook.  
+  A smaller version of the previous notebook.  
 
 ---
 
